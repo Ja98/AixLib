@@ -53,7 +53,7 @@ record HeatingCurvesVitotronicDay25Night10
 ",    revisions="<html>
 <ul>
   <li>
-    <i>July 2, 2013&#160;</i> by Ole Odendahl:<br>
+    <i>July 2, 2013&#160;</i> by Ole Odendahl:<br/>
     Added documentation and formatted appropriately
   </li>
 </ul>
