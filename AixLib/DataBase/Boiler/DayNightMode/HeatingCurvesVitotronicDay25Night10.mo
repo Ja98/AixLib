@@ -25,11 +25,17 @@ record HeatingCurvesVitotronicDay25Night10
   Collection of Heating Curves for Viessmann Vitotronic Controller
 </p>
 <ul>
-  <li>Set temperature day: 25&#176;C
+  <li>Set temperature day: 25&deg;C
   </li>
-  <li>Set temperature night: 10&#176;C
+  <li>Set temperature night: 10&deg;C
   </li>
 </ul>
+<h4>
+  <font color=\"#008000\">Level of Development</font>
+</h4>
+<p>
+  <img src=\"modelica://HVAC/Images/stars5.png/\" alt=""></img>
+</p>
 <h4>
   <font color=\"#008000\">References</font>
 </h4>
@@ -39,8 +45,9 @@ record HeatingCurvesVitotronicDay25Night10
 <p>
   Source:
 </p>
+<p>
 <ul>
-  <li>Product: Vitotronic 200
+  <li>Product: Vitotronic 200TESTTEST
   </li>
   <li>Manufacturer: Viessmann
   </li>
@@ -49,7 +56,7 @@ record HeatingCurvesVitotronicDay25Night10
   <li>Bibtexkey: Viessmann2002
   </li>
 </ul>
-
+</p>
 </html>",
       revisions="<html>
 <p><ul>
