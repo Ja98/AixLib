@@ -20,8 +20,10 @@ algorithm
   Documentation(info="<html>
 <dl>
   <dt>
-    <b>Description of the Switch Counter:</b><br>
-    This model counts the number of times that the logical input <b>u</b> switches from 0 to 1 during the simulation time.<br>
+    <b>Description of the Switch Counter:</b>
+    <br>
+    This model counts the number of times that the logical input <b>u</b> switches from 0 to 1 during the simulation time.
+    <br>
     <br>
   </dt>
 </dl>
@@ -30,19 +32,28 @@ algorithm
     <b>Main Author:</b>
   </dt>
   <dd>
-    Nicol&#195;&#161;s Chang (ssi-nch)<br>
-    E.ON Energy Research Center<br>
-    Institute for Energy Efficient Buildings and Indoor Climate<br>
-    D-52066 Aachen<br>
-    e-mail: <a href=\"mailto:nicolas.chang@eonerc.rwth-aachen.de\">nicolas.chang@eonerc.rwth-aachen.de</a><br>
+    Nicol&#195;&#161;s Chang (ssi-nch)
+    <br>
+    E.ON Energy Research Center
+    <br>
+    Institute for Energy Efficient Buildings and Indoor Climate
+    <br>
+    D-52066 Aachen
+    <br>
+    e-mail: <a href=\"mailto:nicolas.chang@eonerc.rwth-aachen.de\">nicolas.chang@eonerc.rwth-aachen.de</a>
+    <br>
   </dd>
 </dl>", revisions="
 <ul>
   <li>
-    <i>November 28, 2016&#160;</i> Tobias Blacha:<br>
+    <i>November 28, 2016&#160;</i> Tobias Blacha:
+    <br>
     Moved into AixLib
   </li>
 </ul>
+
+
+
 
 </html>"),
 Icon(coordinateSystem(preserveAspectRatio=false, extent={{-100,-100},{100,100}}),
