@@ -19,7 +19,7 @@ record HeatingCurvesVitotronicDay25Night10
 
   annotation (Documentation(info="<html>
 <h4>
-  <font color=\"#008000\">Overview</font>
+  <p><font color=\"#008000\">Overview</font></p>
 </h4>
 <p>
   Collection of Heating Curves for Viessmann Vitotronic Controller
@@ -31,7 +31,7 @@ record HeatingCurvesVitotronicDay25Night10
   </li>
 </ul>
 <h4>
-  <font color=\"#008000\">References</font>
+  <p><font color=\"#008000\">References</font></p>
 </h4>
 <p>
   Record is used with <a href=\"HVAC.Components.HeatGenerators.Boiler.BoilerWithController\">HVAC.Components.HeatGenerators.Boiler.BoilerWithController</a>
@@ -50,10 +50,13 @@ record HeatingCurvesVitotronicDay25Night10
   </li>
 </ul>
 
-</html>",
-      revisions="<html>
-<p><ul>
-<li><i>July 2, 2013&nbsp;</i> by Ole Odendahl:<br/>Added documentation and formatted appropriately</li>
-</ul></p>
+</html>
+",    revisions="<html>
+<ul>
+  <li>
+    <i>July 2, 2013&#160;</i> by Ole Odendahl:<br>
+    Added documentation and formatted appropriately
+  </li>
+</ul>
 </html>"));
 end HeatingCurvesVitotronicDay25Night10;
