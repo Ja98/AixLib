@@ -29,7 +29,12 @@
   <li>Set temperature night: 10°C
   </li>
 </ul>
-
+<h4>
+  <font color=\"#008000\">Level of Development</font>
+</h4>
+<p>
+  <img src=\"modelica://HVAC/Images/stars5.png/\"></img>
+</p>
 <h4>
   <font color=\"#008000\">References</font>
 </h4>
