@@ -1,4 +1,4 @@
-within AixLib.FastHVAC.Components.HeatExchangers;
+﻿within AixLib.FastHVAC.Components.HeatExchangers;
 model RadiatorMultiLayer "Simple radiator multilayer model"
   import Modelica.SIunits;
   import calcT =
@@ -276,7 +276,7 @@ equation
   T_source output is relevant for exergy analysis. It describes
   the&#160;logarithmic&#160;mean&#160;temperature&#160;is&#160;calculated&#160;from&#160;the&#160;temperatures&#160;at&#160;in-&#160;and&#160;outlet&#160;of&#160;the&#160;radiator.
 </p>
-<table cellspacing=\"0\" cellpadding=\"2\" border=\"1\">
+<table summary=\"equation for multilayer\" cellspacing=\"0\" cellpadding=\"2\" border=\"1\"> 
   <tr>
     <td>
       <h4>
@@ -553,7 +553,7 @@ equation
 <p>
   For every layer the equation (1) is solved.
 </p>
-<table cellspacing=\"0\" cellpadding=\"2\" border=\"1\">
+<table summary=\"\" cellspacing=\"0\" cellpadding=\"2\" border=\"1\">
   <tr>
     <td>
       <p>
@@ -579,7 +579,7 @@ equation
   The total heat emission consists of a convective and a radiative
   part.
 </p>
-<table cellspacing=\"0\" cellpadding=\"2\" border=\"1\">
+<table summary=\"\" cellspacing=\"0\" cellpadding=\"2\" border=\"1\">
   <tr>
     <td>
       <p>
@@ -641,7 +641,7 @@ equation
   alt=\"\" /> &#160;=(T_L + DeltaT)^4-TR^4 (T_L: Room Temperature, DeltaT:
   heater excess temperature, T_R: radiative temperature).
 </p>
-<table cellspacing=\"0\" cellpadding=\"2\" border=\"1\">
+<table summary=\"\" cellspacing=\"0\" cellpadding=\"2\" border=\"1\">
   <tr>
     <td>
       <p>
@@ -681,7 +681,7 @@ equation
   The heat emission of the radiator depends on the heater excess
   temperature. In the model it is possible to choose between:
 </p>
-<table cellspacing=\"0\" cellpadding=\"2\" border=\"1\">
+<table summary=\"\" cellspacing=\"0\" cellpadding=\"2\" border=\"1\">
   <tr>
     <td>
       <h4>
@@ -772,7 +772,7 @@ equation
   heat emission. the radiative heat emission part grows larger. This is
   considered by the following formulas:
 </p>
-<table cellspacing=\"0\" cellpadding=\"2\" border=\"1\">
+<table summary=\"\" cellspacing=\"0\" cellpadding=\"2\" border=\"1\">
   <tr>
     <td>
       <p>
@@ -820,7 +820,7 @@ equation
   is connected via a thermal port to the enthalpie flow of the heating
   medium and the stored heat in the radiator mass.
 </p>
-<table cellspacing=\"0\" cellpadding=\"2\" border=\"1\">
+<table summary=\"\" cellspacing=\"0\" cellpadding=\"2\" border=\"1\">
   <tr>
     <td></td>
   </tr>
