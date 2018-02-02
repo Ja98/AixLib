@@ -202,12 +202,6 @@ equation
   Boiler model without an internal controller.
 </p>
 <h4>
-  <span style=\"color:#008000\">Level of Development</span>
-</h4>
-<p>
-  <img src=\"modelica://HVAC/Images/stars2.png\" alt="" />
-</p>
-<h4>
   <span style=\"color:#008000\">Concept</span>
 </h4>
 <p>
@@ -222,7 +216,7 @@ equation
   the modulating operation, boilers capacity.
 </p>
 <p>
-  Both, actually and integrated gas consumption can be taken from
+  Both, actually and intigrated gas consumption can be taken from
   boilers outputs.
 </p>
 <h4>
